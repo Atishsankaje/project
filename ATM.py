@@ -5,7 +5,7 @@ inserted = False # True # False
 blocked = False 
 attempt = 0 #1 #2 #3
 transactions = [] # [1000, -100, -5000 ]
-print("Welcome to SBI") 
+
 
 while True:
     if inserted == False:
